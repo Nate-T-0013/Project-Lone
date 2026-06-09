@@ -1,5 +1,6 @@
 # Project-Lone
 This is an ongoing project to make a 2D metroidvania game using the unity engine.
+You can find the .exe of the latest build in the ProjectBuild folder. 
 
 # Controlls
 since controlls are not currently told in the game, here are the controlls:
