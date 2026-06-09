@@ -1,3 +1,0 @@
-Start_Level
-hasDoubleJump = False
-hasArtillery = False
