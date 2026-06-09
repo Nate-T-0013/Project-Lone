@@ -1,0 +1,153 @@
+version: 1
+labels:
+- name: Player
+  color: '004B96'
+  description: ''
+- name: sprint:01
+  color: FFFFFF
+  description: Increment 1 work
+- name: sprint:02
+  color: FFFFFF
+  description: ''
+- name: sprint:03
+  color: ffffff
+  description: ''
+- name: sprint:04
+  color: ffffff
+  description: ''
+- name: type:feature
+  color: 'CEB888'
+  description: New functionality
+- name: Sprites/Appearance
+  color: '960096'
+  description: ''
+- name: Physics
+  color: '009600'
+  description: ''
+- name: Logic
+  color: '961900'
+  description: General logic of the game
+- name: Enemy
+  color: '961900'
+  description: ''
+- name: Level-Design
+  color: '64C896'
+  description: ''
+- name: Level-Design
+  color: 64C896
+  description: ''
+milestones:
+- title: Increment 1
+  description: ''
+  state: open
+- title: Increment 2
+  description: ''
+  state: open
+- title: Increment 3
+  description: ''
+  state: open
+- title: Increment 4
+  description: ''
+  state: open
+issues:
+- id: ISSUE-1
+  title: The player should have a hitbox, and have gravity applied to them.
+  body: The player should have a hitbox and therefore collison, and have gravity applied to them. The physics should not rotate the character and keep them upright.
+  labels:
+  - Player
+  milestone: Increment 2
+- id: ISSUE-2
+  title: The player should be able to move left, right, and jump.
+  body: The player should be able to move using [a] for left, [d] for right, and [w] to jump. These keybinds should be reconigurable.
+  labels:
+  - Player
+  milestone: Increment 2
+- id: ISSUE-3
+  title: The Player should have a sprite sheet for all actions.
+  body: The player should have a sprite sheet for mevement, attacks, etc. make separate sprites for legs and torso.
+  labels: 
+  - Player
+  - Sprites/Appearance
+  milestone: Increment 2
+- id: ISSUE-4
+  title: The Player should be able to shoot a projectile using the spacebar.
+  body: The player should be able to shoot a projectile that is interactable and despawns afer some time. Traits of the projectile (direction, speed, damage) should be configureable.
+  labels: 
+  - Player
+  - Physics
+  milestone: Increment 2
+- id: ISSUE-5
+  title: The player should be able to aim attacks eight diecions using arrow keys.
+  body: The player should be able to aim where they attack (shoot, slash) in eight directions (up, down, left, right, and diagonals). These should be controlled using the arrow keys.
+  labels: 
+  - Player
+  milestone: Increment 2
+- id: ISSUE-6
+  title: The Player should be able to make a melee attack using [f].
+  body: The player should be able to make a melee attack using the [f] key. The attack needs to have funcitonal hit box, with configurable damage, size, and duration.
+  labels: 
+  - Player
+  milestone: Increment 2
+- id: ISSUE-7
+  title: The player should have measurable health, ammo, and oxygen.
+  body: The player should have stats for health, ammo, and oxygen that can be changed by logic events in the world.
+  labels:
+  - Player
+  - Logic
+  milestone: Increment 2
+- id: ISSUE-8
+  title: The player should be able to grab ledges, hang off them, and clamber up.
+  body: The player should be able to grab onto a ledge when mid-air. they should be able to hang on a ledge indefinitley and be able to clamber onto the ldge or jump from it.
+  labels:
+  - Player
+  milestone: Increment 2
+- id: ISSUE-9
+  title: The player should be able to grab ledges, hang off them, and clamber up.
+  body: The player should be able to grab onto a ledge when mid-air. they should be able to hang on a ledge indefinitley and be able to clamber onto the ldge or jump from it.
+  labels:
+  - Player
+  - Level-Design
+  milestone: Increment 2
+- id: ISSUE-10
+  title: The player should be have a toggleable mid-air hover jump.
+  body: The player should be able to jump mid-air using the same jump keybind. This jump should hover in place a little before acellerating up for a duration. It should also be able to be toggled on or off.
+  labels:
+  - Player
+  milestone: Increment 2
+- id: ISSUE-11
+  title: The player should be have a toggleable limeted ammo artillery attack.
+  body: The player should be able to shoot a heavy artillery attack that does more damage than the standard shooting attack. This attack should have a limited ammo pool (depends on issue 7) and can only be used when standing still.
+  labels:
+  - Player
+  milestone: Increment 2
+- id: ISSUE-12
+  title: Enemies should have hitboxes and interact with the player and environment.
+  body: Enemies should have hitboxes, allowing them to be hit be player attacks, as well as have collision with terrain and player. Behavoir needs to be configurable for different enemy types.
+  labels:
+  - Enemy
+  milestone: Increment 2
+- id: ISSUE-13
+  title: Crawler type simple emenies should be implemented.
+  body: Crawler type enemies are simple enemies, meaning the deal contact damage. Their movement pattern is simply walking along the edges of terrain, with configurable logic to stop, turn around, walk over, or cling to and walk down terrain ledges.
+  labels:
+  - Enemy
+  milestone: Increment 2
+- id: ISSUE-14
+  title: Diver type simple emenies should be implemented.
+  body: Diver type enemies are simple enemies, meaning the deal contact damage. Their movement pattern is simply flying stationary or along a pattern, and dive at the player when they get close, matching thier height to hit them.
+  labels:
+  - Enemy
+  milestone: Increment 2
+- id: ISSUE-14
+  title: Stationary type simple emenies should be implemented.
+  body: Stationary type enemies are simple enemies, but they could deal contact damage depending on logic. They are completely stationary, with configurable logic to shoot projectiles at the player or make a melee attack if they get close.
+  labels:
+  - Enemy
+  milestone: Increment 2
+- id: ISSUE-15
+  title: Player projectiles and attacks should have sprites.
+  body: Player projectiles and attacks should have a sprite sheet. Firing effects and explosions are included in this.
+  labels: 
+  - Player
+  - Sprites/Appearance
+  milestone: Increment 2

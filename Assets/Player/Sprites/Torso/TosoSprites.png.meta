@@ -1,0 +1,927 @@
+fileFormatVersion: 2
+guid: 195d3342ae8521f479d3d2f74b47c203
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1473137617775623268
+    second: TosoSprites_0
+  - first:
+      213: -3171331285512245802
+    second: TosoSprites_1
+  - first:
+      213: 6558071732984000348
+    second: TosoSprites_2
+  - first:
+      213: -720820571378709992
+    second: TosoSprites_3
+  - first:
+      213: -1735052189186528259
+    second: TosoSprites_4
+  - first:
+      213: 2424110499346775028
+    second: TosoSprites_5
+  - first:
+      213: -5341188651944093982
+    second: TosoSprites_6
+  - first:
+      213: 7385269574292648128
+    second: TosoSprites_7
+  - first:
+      213: -4200815884721787716
+    second: TosoSprites_8
+  - first:
+      213: 6740996607231933521
+    second: TosoSprites_9
+  - first:
+      213: -6651482888405824887
+    second: TosoSprites_10
+  - first:
+      213: 5460263067805592733
+    second: TosoSprites_11
+  - first:
+      213: 4892513860736053227
+    second: TosoSprites_12
+  - first:
+      213: 880143511820783509
+    second: TosoSprites_13
+  - first:
+      213: 4554018377549612251
+    second: TosoSprites_14
+  - first:
+      213: -4613642475337676199
+    second: TosoSprites_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TosoSprites_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 356
+        width: 31
+        height: 25
+      alignment: 9
+      pivot: {x: 0.2580645, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cf7ccbbd2a17410800000000000000
+      internalID: 1473137617775623268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TosoSprites_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 356
+        width: 28
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2857143, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dda5fd8ffa2df3d0800000000000000
+      internalID: -3171331285512245802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TosoSprites_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 356
+        width: 18
+        height: 38
+      alignment: 9
+      pivot: {x: 0.44444445, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5faa08be73f20b50800000000000000
+      internalID: 6558071732984000348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TosoSprites_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 352
+        width: 29
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2413793, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a8d2862812ff5f0800000000000000
+      internalID: -720820571378709992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TosoSprites_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 344
+        width: 16
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4375, y: 0.33333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbe5c40a3bdbe7e0800000000000000
+      internalID: -1735052189186528259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TosoSprites_5
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 356
+        width: 41
+        height: 25
+      alignment: 9
+      pivot: {x: 0.7317073, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbfbd9d7ab24a120800000000000000
+      internalID: 2424110499346775028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TosoSprites_6
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 356
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.6764706, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6568a483940e5b0800000000000000
+      internalID: -5341188651944093982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TosoSprites_7
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 355
+        width: 34
+        height: 26
+      alignment: 9
+      pivot: {x: 0.6764706, y: 0.03846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0b63a8c8fbd7660800000000000000
+      internalID: 7385269574292648128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TosoSprites_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 306
+        width: 31
+        height: 25
+      alignment: 9
+      pivot: {x: 0.7419355, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbce650b534b3b5c0800000000000000
+      internalID: -4200815884721787716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TosoSprites_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 306
+        width: 28
+        height: 28
+      alignment: 9
+      pivot: {x: 0.71428573, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c3c2ee2b4dc8d50800000000000000
+      internalID: 6740996607231933521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TosoSprites_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 306
+        width: 18
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5555556, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a4bf6dd8f21b3a0800000000000000
+      internalID: -6651482888405824887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TosoSprites_11
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 302
+        width: 29
+        height: 28
+      alignment: 9
+      pivot: {x: 0.7586207, y: 0.14285715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cacb89450c6cb40800000000000000
+      internalID: 5460263067805592733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TosoSprites_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 294
+        width: 16
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5625, y: 0.3611111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befe8d74f63b5e340800000000000000
+      internalID: 4892513860736053227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TosoSprites_13
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 306
+        width: 41
+        height: 25
+      alignment: 9
+      pivot: {x: 0.26829267, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f417d5cd5e63c00800000000000000
+      internalID: 880143511820783509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TosoSprites_14
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 306
+        width: 34
+        height: 35
+      alignment: 9
+      pivot: {x: 0.32352942, y: -0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4027e069f133f30800000000000000
+      internalID: 4554018377549612251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TosoSprites_15
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 305
+        width: 34
+        height: 26
+      alignment: 9
+      pivot: {x: 0.32352942, y: 0.03846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a08d0ec9c09ffb0800000000000000
+      internalID: -4613642475337676199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TosoSprites_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 257
+        width: 31
+        height: 27
+      alignment: 9
+      pivot: {x: 0.2580645, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f518e1c2706834595615c845ff20e5
+      internalID: -1002673075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TosoSprites_17
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 257
+        width: 25
+        height: 34
+      alignment: 9
+      pivot: {x: 0.32, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e927c932d15a52d4ea7aabcd96a7a2ea
+      internalID: -1167220396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TosoSprites_18
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 257
+        width: 24
+        height: 39
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f036f2fa9454584c960386ee2784fb0
+      internalID: -655982727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TosoSprites_19
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 253
+        width: 28
+        height: 31
+      alignment: 9
+      pivot: {x: 0.25, y: 0.12903225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fd6a406f2093d4caa939eec18fbff4
+      internalID: 1320356298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TosoSprites_20
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 245
+        width: 23
+        height: 39
+      alignment: 9
+      pivot: {x: 0.30434784, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c4e388978e89045a26dcbe525c2536
+      internalID: 1809000403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TosoSprites_21
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 257
+        width: 46
+        height: 27
+      alignment: 9
+      pivot: {x: 0.65217394, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295adee5f1ade2d42a801600f700807a
+      internalID: -443477688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TosoSprites_22
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 257
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670c12c2d6ae07641ae54dff8b10c065
+      internalID: 97149926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TosoSprites_23
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 256
+        width: 39
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5897436, y: 0.035714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb22a16c00fa8144cb73ada558cf77a3
+      internalID: 2072266118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TosoSprites_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 207
+        width: 31
+        height: 27
+      alignment: 9
+      pivot: {x: 0.7419355, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d202e0756fe21ef40ae7c2504aedb704
+      internalID: -1474179629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TosoSprites_25
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 207
+        width: 25
+        height: 34
+      alignment: 9
+      pivot: {x: 0.68, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8d6cfee733d044e9dd881d6a9a5109
+      internalID: 1875141962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TosoSprites_26
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 207
+        width: 24
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9079291f3eb7f4d8a36aff51a11125
+      internalID: 2027986878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TosoSprites_27
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 203
+        width: 29
+        height: 31
+      alignment: 9
+      pivot: {x: 0.7586207, y: 0.12903225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9240b70e8bc398644a66fd2c44996b2e
+      internalID: -214571443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TosoSprites_28
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 195
+        width: 23
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6956522, y: 0.30769232}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdc8c04a25565a4b915d4dc4e3576a6
+      internalID: 368656559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TosoSprites_29
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 207
+        width: 46
+        height: 27
+      alignment: 9
+      pivot: {x: 0.3478261, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3618c5ae11a8e5f41804fa013dedcbd8
+      internalID: 1283431104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TosoSprites_30
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 207
+        width: 39
+        height: 35
+      alignment: 9
+      pivot: {x: 0.41025642, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3ae2d892f9d3549a856b783ecfcce9
+      internalID: 1698876256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TosoSprites_31
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 206
+        width: 39
+        height: 28
+      alignment: 9
+      pivot: {x: 0.41025642, y: 0.035714287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4451cb14a315e34db887336180ae011
+      internalID: 1003814031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6d35284b9473ce84d8a2fd929ee53d34
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TosoSprites_0: 1473137617775623268
+      TosoSprites_1: -3171331285512245802
+      TosoSprites_10: -6651482888405824887
+      TosoSprites_11: 5460263067805592733
+      TosoSprites_12: 4892513860736053227
+      TosoSprites_13: 880143511820783509
+      TosoSprites_14: 4554018377549612251
+      TosoSprites_15: -4613642475337676199
+      TosoSprites_16: -1002673075
+      TosoSprites_17: -1167220396
+      TosoSprites_18: -655982727
+      TosoSprites_19: 1320356298
+      TosoSprites_2: 6558071732984000348
+      TosoSprites_20: 1809000403
+      TosoSprites_21: -443477688
+      TosoSprites_22: 97149926
+      TosoSprites_23: 2072266118
+      TosoSprites_24: -1474179629
+      TosoSprites_25: 1875141962
+      TosoSprites_26: 2027986878
+      TosoSprites_27: -214571443
+      TosoSprites_28: 368656559
+      TosoSprites_29: 1283431104
+      TosoSprites_3: -720820571378709992
+      TosoSprites_30: 1698876256
+      TosoSprites_31: 1003814031
+      TosoSprites_4: -1735052189186528259
+      TosoSprites_5: 2424110499346775028
+      TosoSprites_6: -5341188651944093982
+      TosoSprites_7: 7385269574292648128
+      TosoSprites_8: -4200815884721787716
+      TosoSprites_9: 6740996607231933521
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

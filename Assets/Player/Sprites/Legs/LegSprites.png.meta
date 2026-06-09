@@ -1,0 +1,813 @@
+fileFormatVersion: 2
+guid: a80ee341b635ae44e9824b2cacfbe3b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2881155675749482720
+    second: LegSprites_0
+  - first:
+      213: 5208431131607683400
+    second: LegSprites_1
+  - first:
+      213: -905181886830565304
+    second: LegSprites_2
+  - first:
+      213: 1291338102058963735
+    second: LegSprites_3
+  - first:
+      213: 1672196848026223576
+    second: LegSprites_4
+  - first:
+      213: -5530740760864806547
+    second: LegSprites_5
+  - first:
+      213: -5177566889035066849
+    second: LegSprites_6
+  - first:
+      213: -1979915374049396451
+    second: LegSprites_7
+  - first:
+      213: 5876381043329758119
+    second: LegSprites_8
+  - first:
+      213: 3086765208433440017
+    second: LegSprites_9
+  - first:
+      213: 7603650061406705360
+    second: LegSprites_10
+  - first:
+      213: 1020445581797601639
+    second: LegSprites_11
+  - first:
+      213: -899758185364456906
+    second: LegSprites_12
+  - first:
+      213: -3994043276814369044
+    second: LegSprites_13
+  - first:
+      213: 372106192532465416
+    second: LegSprites_14
+  - first:
+      213: -8976175150574938936
+    second: LegSprites_15
+  - first:
+      213: -8614352925217471624
+    second: LegSprites_16
+  - first:
+      213: 8606068081448357657
+    second: LegSprites_17
+  - first:
+      213: 1647429936708120280
+    second: LegSprites_18
+  - first:
+      213: 6785450382344462797
+    second: LegSprites_19
+  - first:
+      213: -4768351011822900150
+    second: LegSprites_20
+  - first:
+      213: -210142369866575345
+    second: LegSprites_21
+  - first:
+      213: -6336275098693896469
+    second: LegSprites_22
+  - first:
+      213: 6722339654577558352
+    second: LegSprites_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LegSprites_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 360
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.75757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ff95c8d241408d0800000000000000
+      internalID: -2881155675749482720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegSprites_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 360
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: 0.47826087, y: 0.75757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841df8cc480184840800000000000000
+      internalID: 5208431131607683400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegSprites_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 367
+        width: 21
+        height: 26
+      alignment: 9
+      pivot: {x: 0.42857143, y: 0.6923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848a85aaed52073f0800000000000000
+      internalID: -905181886830565304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegSprites_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 367
+        width: 21
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5714286, y: 0.6923077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713d62a7921cbe110800000000000000
+      internalID: 1291338102058963735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegSprites_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 317
+        width: 20
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6, y: 0.75757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d381217c26d43710800000000000000
+      internalID: 1672196848026223576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegSprites_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 317
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5652174, y: 0.75757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6921e3c49cde33b0800000000000000
+      internalID: -5530740760864806547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegSprites_6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 317
+        width: 28
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6428572, y: 0.75757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f129d3aa8569528b0800000000000000
+      internalID: -5177566889035066849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegSprites_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 317
+        width: 35
+        height: 33
+      alignment: 9
+      pivot: {x: 0.62857145, y: 0.75757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d197374157de584e0800000000000000
+      internalID: -1979915374049396451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegSprites_8
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 317
+        width: 30
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6333334, y: 0.75757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3728cac691d8150800000000000000
+      internalID: 5876381043329758119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegSprites_9
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 317
+        width: 20
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6, y: 0.75757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115b5b94a9466da20800000000000000
+      internalID: 3086765208433440017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegSprites_10
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 317
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5652174, y: 0.75757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6168ae177958960800000000000000
+      internalID: 7603650061406705360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegSprites_11
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 317
+        width: 28
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6428572, y: 0.75757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761b9af99d9592e00800000000000000
+      internalID: 1020445581797601639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegSprites_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 317
+        width: 35
+        height: 33
+      alignment: 9
+      pivot: {x: 0.62857145, y: 0.75757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63af99192ba6383f0800000000000000
+      internalID: -899758185364456906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegSprites_13
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 317
+        width: 30
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6333334, y: 0.75757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee31f31dce4298c0800000000000000
+      internalID: -3994043276814369044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegSprites_14
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 276
+        width: 20
+        height: 33
+      alignment: 9
+      pivot: {x: 0.4, y: 0.75757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807ee905c9cf92500800000000000000
+      internalID: 372106192532465416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegSprites_15
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 276
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: 0.43478262, y: 0.75757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4da4422483e6380800000000000000
+      internalID: -8976175150574938936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegSprites_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 276
+        width: 28
+        height: 33
+      alignment: 9
+      pivot: {x: 0.35714287, y: 0.75757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873c092c7aba37880800000000000000
+      internalID: -8614352925217471624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegSprites_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 276
+        width: 35
+        height: 33
+      alignment: 9
+      pivot: {x: 0.37142858, y: 0.75757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f8e8bb255ee6770800000000000000
+      internalID: 8606068081448357657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegSprites_18
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 276
+        width: 30
+        height: 33
+      alignment: 9
+      pivot: {x: 0.36666667, y: 0.75757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dee4d98cc8dcd610800000000000000
+      internalID: 1647429936708120280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegSprites_19
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 276
+        width: 20
+        height: 33
+      alignment: 9
+      pivot: {x: 0.4, y: 0.75757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc12ea00c23ca2e50800000000000000
+      internalID: 6785450382344462797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegSprites_20
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 276
+        width: 23
+        height: 33
+      alignment: 9
+      pivot: {x: 0.43478262, y: 0.75757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cebefb40a63ddb0800000000000000
+      internalID: -4768351011822900150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegSprites_21
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 276
+        width: 28
+        height: 33
+      alignment: 9
+      pivot: {x: 0.35714287, y: 0.75757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0218d3c0ac651df0800000000000000
+      internalID: -210142369866575345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegSprites_22
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 276
+        width: 35
+        height: 33
+      alignment: 9
+      pivot: {x: 0.37142858, y: 0.75757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be672376e570118a0800000000000000
+      internalID: -6336275098693896469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegSprites_23
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 276
+        width: 30
+        height: 33
+      alignment: 9
+      pivot: {x: 0.36666667, y: 0.75757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0531e92ac4c8a4d50800000000000000
+      internalID: 6722339654577558352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegSprites_24
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 360
+        width: 21
+        height: 33
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.75757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf035954e29010a4abb4b7955188b407
+      internalID: -347461842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegSprites_25
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 360
+        width: 21
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6666667, y: 0.75757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1c69419348a3e45aa89a75d7cedb8f
+      internalID: 1128281604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cc7155a8623a62247850abdb506c78c8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LegSprites_0: -2881155675749482720
+      LegSprites_1: 5208431131607683400
+      LegSprites_10: 7603650061406705360
+      LegSprites_11: 1020445581797601639
+      LegSprites_12: -899758185364456906
+      LegSprites_13: -3994043276814369044
+      LegSprites_14: 372106192532465416
+      LegSprites_15: -8976175150574938936
+      LegSprites_16: -8614352925217471624
+      LegSprites_17: 8606068081448357657
+      LegSprites_18: 1647429936708120280
+      LegSprites_19: 6785450382344462797
+      LegSprites_2: -905181886830565304
+      LegSprites_20: -4768351011822900150
+      LegSprites_21: -210142369866575345
+      LegSprites_22: -6336275098693896469
+      LegSprites_23: 6722339654577558352
+      LegSprites_24: -347461842
+      LegSprites_25: 1128281604
+      LegSprites_3: 1291338102058963735
+      LegSprites_4: 1672196848026223576
+      LegSprites_5: -5530740760864806547
+      LegSprites_6: -5177566889035066849
+      LegSprites_7: -1979915374049396451
+      LegSprites_8: 5876381043329758119
+      LegSprites_9: 3086765208433440017
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
